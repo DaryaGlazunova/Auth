@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DaryaGlazunova/Auth/static/css/main.64eacbde.css",
-    "main.js": "/DaryaGlazunova/Auth/static/js/main.b9908449.js",
-    "index.html": "/DaryaGlazunova/Auth/index.html",
-    "main.64eacbde.css.map": "/DaryaGlazunova/Auth/static/css/main.64eacbde.css.map",
-    "main.b9908449.js.map": "/DaryaGlazunova/Auth/static/js/main.b9908449.js.map"
+    "main.css": "/Auth/static/css/main.64eacbde.css",
+    "main.js": "/Auth/static/js/main.b9908449.js",
+    "index.html": "/Auth/index.html",
+    "main.64eacbde.css.map": "/Auth/static/css/main.64eacbde.css.map",
+    "main.b9908449.js.map": "/Auth/static/js/main.b9908449.js.map"
   },
   "entrypoints": [
     "static/css/main.64eacbde.css",
