@@ -1,0 +1,27 @@
+.header {
+  &__container {
+    max-width: 1600px;
+    padding: 20px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  &__auth-links {
+    display: flex;
+    align-items: center;
+
+    & a {
+      font-size: 17px;
+      transition: 0.5s;
+      color: #ffffff;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+      &:first-child {
+        margin-right: 15px;
+      }
+    }
+  }
+}
